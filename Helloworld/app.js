@@ -8,3 +8,5 @@ app.listen(port, () => console.log(`Example app listening at http://localhost:${
 
 console.log("nopdemon started")
 console.log("nopdemon started")
+
+/* Nodemon is a module to start server automatically*/
